@@ -413,7 +413,6 @@ int main()
 
     cout<<endl<<"Encoded Text : "<<encoded_text<<endl<<endl;
 
-    /*
     cout<<"Ordered Bit Length Codes"<<endl;
     for(int i = 0; i < DICT_SIZE; ++i)
     {
